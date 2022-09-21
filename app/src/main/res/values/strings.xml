@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CountdownTimerDemo</string>
+    <string name="text_view_timer_text">60</string>
+    <string name="button_start_text">START</string>
+    <string name="button_pause_text">PAUSE</string>
+    <string name="button_reset_text">RESET</string>
+</resources>
